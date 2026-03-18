@@ -1,7 +1,6 @@
 # 📰 AI-Powered News Detector  
 
 **Combating Fake News and Misinformation with AI**  
-🔗 **Live Demo:** [https://d30hw8svzk5x6g.cloudfront.net](https://d30hw8svzk5x6g.cloudfront.net)
 
 This project is a prototype solution built for an AWS hackathon challenge.  
 It addresses the urgent problem of misinformation spreading faster than facts, especially on social media.  
@@ -82,7 +81,6 @@ Set required environment variables:
   TAVILY_API_KEY
 
 4. Run It
-Open https://d30hw8svzk5x6g.cloudfront.net
 Paste any news headline or article
 Click Analyze — get classification, confidence score, and AI reasoning in real time
 
